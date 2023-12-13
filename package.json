@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"@google-cloud/dialogflow": "^6.2.0",
+		"@types/dialogflow": "^4.0.4",
+		"@types/node": "^20.10.3",
+		"@types/readline-sync": "^1.4.8",
+		"dialogflow": "^1.2.0",
+		"readline-sync": "^1.4.10",
+		"tsc": "^2.0.4"
+	}
+}
